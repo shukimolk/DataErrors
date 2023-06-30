@@ -1,3 +1,4 @@
+-- Notice: This is SQL Server syntax --
 USE master
 GO
 
